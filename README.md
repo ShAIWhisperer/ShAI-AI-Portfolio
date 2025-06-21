@@ -40,8 +40,7 @@ A fork of the official showcase for projects created by the `CodebuffAI` communi
 
 ## 📫 Get In Touch
 
-*   **LinkedIn:** [in/shaiwhisperer](https://www.linkedin.com/in/shaiwhisperer)
-*   **GitHub:** [@ShAIWhisperer](https://github.com/ShAIWhisperer)
-*   **Medium:** [@shailelchuk](https://medium.com/@shailelchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiwhisperer)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shailelchuk)
 
 Feel free to explore the repositories, and don't hesitate to reach out! 
