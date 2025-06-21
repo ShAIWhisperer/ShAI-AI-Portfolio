@@ -1,6 +1,8 @@
 # 🚀 ShAI's Generative AI Portfolio
 
-Welcome! I'm an AI Visionary, passionate about building and designing innovative AI products and solutions. This repository serves as a central hub to showcase my projects and contributions in the world of Generative AI.
+Welcome! I'm an AI Visionary specializing in **Generative AI** and **AI Product Management**. My passion lies in designing and building innovative AI solutions, leveraging a creative, AI-augmented development process to bring ideas to life.
+
+This portfolio showcases my projects and contributions that sit at the intersection of AI, code, and product strategy.
 
 ---
 
